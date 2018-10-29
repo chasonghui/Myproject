@@ -1,5 +1,3 @@
 # Myproject
-chasonghui
-parkjeawon
-1215
-soon
+1998.chasonghui
+Department of software
